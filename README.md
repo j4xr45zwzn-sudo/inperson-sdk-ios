@@ -1,4 +1,4 @@
-    # Authorize.Net In-Person iOS SDK Integration Guide
+        # Authorize.Net In-Person iOS SDK Integration Guide
 
 ***The In-Person SDK for iOS is deprecated. The BBPOS Chipper 2X hardware is no longer available.***
 
